@@ -4,8 +4,6 @@
 I am a passionate **MERN stack developer** actively looking for job opportunities in **Frontend, Backend, or Full-Stack development**.🎓 Currently, I am a **MCA final semester student***. I love building web applications, learning **new technologies**, and collaborating on **innovative projects**.
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on  projects using the MERN stack.
 - 🌱 I’m currently learning **JavaScript, React, Node.js, SQL and improving my English communication skills.**
 - 👯 I’m looking to collaborate on **open-source MERN stack projects and web development.**
