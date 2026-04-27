@@ -11,7 +11,6 @@ I am a passionate **MERN stack developer** actively looking for job opportunitie
 - 💬 Ask me about **MERN stack, web development, and animation videos.**
 - 📫 How to reach me: **[Email: Jubairahmad798@gmail.com] | [LinkedIn:https://www.linkedin.com/in/jubair-95a753260/] **
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love coding at night**💻.
 
 
 
