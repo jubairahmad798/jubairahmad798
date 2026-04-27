@@ -1,7 +1,7 @@
 ## Hi👋 I'm Jubair👨‍🎓
 
 ## 🚀 About Me
-I am a passionate **MERN stack developer** actively looking for job opportunities in **Frontend, Backend, or Full-Stack development**.🎓 Currently, I am a **MCA final semester student**. I love building web applications, learning **new technologies**, and collaborating on **innovative projects**.
+I am a passionate **MERN stack developer** actively looking for job opportunities in **Frontend, Backend, or Full-Stack development**.🎓 Currently, I am a **MCA 2025 passout**. I love building web applications, learning **new technologies**, and collaborating on **innovative projects**.
 
 
 - 🔭 I’m currently working on  projects using the MERN stack.
